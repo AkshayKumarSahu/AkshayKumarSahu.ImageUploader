@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13ea5b52-3f30-4ac7-8d8c-1deca6f6d8c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ImageUploader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageUploader/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageUploader/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageUploader/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageUploader/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageUploader/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/templates/home.html" afterDir="false" />
+    <list default="true" id="13ea5b52-3f30-4ac7-8d8c-1deca6f6d8c2" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/myimages/BTNB1329.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/myimages/BTNB1329_YJdgh1M.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/myimages/FORE5646.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/myimages/FORE5646_qLFHIMX.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,9 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
   <component name="RunManager">
@@ -111,11 +113,25 @@
       <workItem from="1718118647299" duration="13880000" />
       <workItem from="1718471440711" duration="242000" />
       <workItem from="1724171021314" duration="1746000" />
+      <workItem from="1724271097297" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1724271435522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724271435522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
